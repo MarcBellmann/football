@@ -1,0 +1,434 @@
+{
+  "fixture": {
+    "_links": {
+      "self": {
+        "href": "http://api.football-data.org/v1/fixtures/162843"
+      },
+      "competition": {
+        "href": "http://api.football-data.org/v1/competitions/453"
+      },
+      "homeTeam": {
+        "href": "http://api.football-data.org/v1/teams/36"
+      },
+      "awayTeam": {
+        "href": "http://api.football-data.org/v1/teams/20"
+      }
+    },
+    "date": "2017-07-28T18:30:00Z",
+    "status": null,
+    "matchday": 1,
+    "homeTeamName": "VfL Bochum",
+    "awayTeamName": "FC St. Pauli",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    },
+    "odds": null
+  },
+  "head2head": {
+    "count": 10,
+    "timeFrameStart": "2012-11-12",
+    "timeFrameEnd": "2017-05-21",
+    "homeTeamWins": 2,
+    "awayTeamWins": 3,
+    "draws": 5,
+    "lastHomeWinHomeTeam": {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/129182"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/300"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/36"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/20"
+        }
+      },
+      "date": "2013-04-18T22:00:00Z",
+      "status": null,
+      "matchday": 30,
+      "homeTeamName": "VfL Bochum",
+      "awayTeamName": "FC St. Pauli",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 0
+      },
+      "odds": null
+    },
+    "lastWinHomeTeam": {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/131383"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/339"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/20"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/36"
+        }
+      },
+      "date": "2014-02-15T12:00:00Z",
+      "status": null,
+      "matchday": 21,
+      "homeTeamName": "FC St. Pauli",
+      "awayTeamName": "VfL Bochum",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      },
+      "odds": null
+    },
+    "lastAwayWinAwayTeam": {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/152259"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/431"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/36"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/20"
+        }
+      },
+      "date": "2017-05-21T13:30:00Z",
+      "status": "FINISHED",
+      "matchday": 34,
+      "homeTeamName": "VfL Bochum",
+      "awayTeamName": "FC St. Pauli",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 3,
+        "halfTime": {
+          "goalsHomeTeam": 1,
+          "goalsAwayTeam": 1
+        }
+      },
+      "odds": {
+        "homeWin": 2.45,
+        "draw": 3.25,
+        "awayWin": 2.7
+      }
+    },
+    "lastWinAwayTeam": {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/152259"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/431"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/36"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/20"
+        }
+      },
+      "date": "2017-05-21T13:30:00Z",
+      "status": "FINISHED",
+      "matchday": 34,
+      "homeTeamName": "VfL Bochum",
+      "awayTeamName": "FC St. Pauli",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 3,
+        "halfTime": {
+          "goalsHomeTeam": 1,
+          "goalsAwayTeam": 1
+        }
+      },
+      "odds": {
+        "homeWin": 2.45,
+        "draw": 3.25,
+        "awayWin": 2.7
+      }
+    },
+    "fixtures": [
+      {
+        "_links": {
+          "self": {
+            "href": "http://api.football-data.org/v1/fixtures/152259"
+          },
+          "competition": {
+            "href": "http://api.football-data.org/v1/competitions/431"
+          },
+          "homeTeam": {
+            "href": "http://api.football-data.org/v1/teams/36"
+          },
+          "awayTeam": {
+            "href": "http://api.football-data.org/v1/teams/20"
+          }
+        },
+        "date": "2017-05-21T13:30:00Z",
+        "status": "FINISHED",
+        "matchday": 34,
+        "homeTeamName": "VfL Bochum",
+        "awayTeamName": "FC St. Pauli",
+        "result": {
+          "goalsHomeTeam": 1,
+          "goalsAwayTeam": 3,
+          "halfTime": {
+            "goalsHomeTeam": 1,
+            "goalsAwayTeam": 1
+          }
+        },
+        "odds": {
+          "homeWin": 2.45,
+          "draw": 3.25,
+          "awayWin": 2.7
+        }
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "http://api.football-data.org/v1/fixtures/152418"
+          },
+          "competition": {
+            "href": "http://api.football-data.org/v1/competitions/431"
+          },
+          "homeTeam": {
+            "href": "http://api.football-data.org/v1/teams/20"
+          },
+          "awayTeam": {
+            "href": "http://api.football-data.org/v1/teams/36"
+          }
+        },
+        "date": "2016-12-17T12:00:00Z",
+        "status": "FINISHED",
+        "matchday": 17,
+        "homeTeamName": "FC St. Pauli",
+        "awayTeamName": "VfL Bochum",
+        "result": {
+          "goalsHomeTeam": 1,
+          "goalsAwayTeam": 1,
+          "halfTime": {
+            "goalsHomeTeam": 0,
+            "goalsAwayTeam": 1
+          }
+        },
+        "odds": {
+          "homeWin": 2.5,
+          "draw": 3.1,
+          "awayWin": 2.87
+        }
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "http://api.football-data.org/v1/fixtures/145715"
+          },
+          "competition": {
+            "href": "http://api.football-data.org/v1/competitions/395"
+          },
+          "homeTeam": {
+            "href": "http://api.football-data.org/v1/teams/20"
+          },
+          "awayTeam": {
+            "href": "http://api.football-data.org/v1/teams/36"
+          }
+        },
+        "date": "2016-04-16T11:00:00Z",
+        "status": "FINISHED",
+        "matchday": 30,
+        "homeTeamName": "FC St. Pauli",
+        "awayTeamName": "VfL Bochum",
+        "result": {
+          "goalsHomeTeam": 2,
+          "goalsAwayTeam": 0
+        },
+        "odds": null
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "http://api.football-data.org/v1/fixtures/145862"
+          },
+          "competition": {
+            "href": "http://api.football-data.org/v1/competitions/395"
+          },
+          "homeTeam": {
+            "href": "http://api.football-data.org/v1/teams/36"
+          },
+          "awayTeam": {
+            "href": "http://api.football-data.org/v1/teams/20"
+          }
+        },
+        "date": "2015-10-30T17:30:00Z",
+        "status": "FINISHED",
+        "matchday": 13,
+        "homeTeamName": "VfL Bochum",
+        "awayTeamName": "FC St. Pauli",
+        "result": {
+          "goalsHomeTeam": 1,
+          "goalsAwayTeam": 1
+        },
+        "odds": null
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "http://api.football-data.org/v1/fixtures/136129"
+          },
+          "competition": {
+            "href": "http://api.football-data.org/v1/competitions/352"
+          },
+          "homeTeam": {
+            "href": "http://api.football-data.org/v1/teams/20"
+          },
+          "awayTeam": {
+            "href": "http://api.football-data.org/v1/teams/36"
+          }
+        },
+        "date": "2015-05-17T13:30:00Z",
+        "status": "FINISHED",
+        "matchday": 33,
+        "homeTeamName": "FC St. Pauli",
+        "awayTeamName": "VfL Bochum",
+        "result": {
+          "goalsHomeTeam": 5,
+          "goalsAwayTeam": 1
+        },
+        "odds": null
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "http://api.football-data.org/v1/fixtures/136283"
+          },
+          "competition": {
+            "href": "http://api.football-data.org/v1/competitions/352"
+          },
+          "homeTeam": {
+            "href": "http://api.football-data.org/v1/teams/36"
+          },
+          "awayTeam": {
+            "href": "http://api.football-data.org/v1/teams/20"
+          }
+        },
+        "date": "2014-12-05T17:30:00Z",
+        "status": "FINISHED",
+        "matchday": 16,
+        "homeTeamName": "VfL Bochum",
+        "awayTeamName": "FC St. Pauli",
+        "result": {
+          "goalsHomeTeam": 3,
+          "goalsAwayTeam": 3
+        },
+        "odds": null
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "http://api.football-data.org/v1/fixtures/131383"
+          },
+          "competition": {
+            "href": "http://api.football-data.org/v1/competitions/339"
+          },
+          "homeTeam": {
+            "href": "http://api.football-data.org/v1/teams/20"
+          },
+          "awayTeam": {
+            "href": "http://api.football-data.org/v1/teams/36"
+          }
+        },
+        "date": "2014-02-15T12:00:00Z",
+        "status": null,
+        "matchday": 21,
+        "homeTeamName": "FC St. Pauli",
+        "awayTeamName": "VfL Bochum",
+        "result": {
+          "goalsHomeTeam": 0,
+          "goalsAwayTeam": 1
+        },
+        "odds": null
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "http://api.football-data.org/v1/fixtures/131535"
+          },
+          "competition": {
+            "href": "http://api.football-data.org/v1/competitions/339"
+          },
+          "homeTeam": {
+            "href": "http://api.football-data.org/v1/teams/36"
+          },
+          "awayTeam": {
+            "href": "http://api.football-data.org/v1/teams/20"
+          }
+        },
+        "date": "2013-08-15T22:00:00Z",
+        "status": null,
+        "matchday": 4,
+        "homeTeamName": "VfL Bochum",
+        "awayTeamName": "FC St. Pauli",
+        "result": {
+          "goalsHomeTeam": 2,
+          "goalsAwayTeam": 2
+        },
+        "odds": null
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "http://api.football-data.org/v1/fixtures/129182"
+          },
+          "competition": {
+            "href": "http://api.football-data.org/v1/competitions/300"
+          },
+          "homeTeam": {
+            "href": "http://api.football-data.org/v1/teams/36"
+          },
+          "awayTeam": {
+            "href": "http://api.football-data.org/v1/teams/20"
+          }
+        },
+        "date": "2013-04-18T22:00:00Z",
+        "status": null,
+        "matchday": 30,
+        "homeTeamName": "VfL Bochum",
+        "awayTeamName": "FC St. Pauli",
+        "result": {
+          "goalsHomeTeam": 3,
+          "goalsAwayTeam": 0
+        },
+        "odds": null
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "http://api.football-data.org/v1/fixtures/123779"
+          },
+          "competition": {
+            "href": "http://api.football-data.org/v1/competitions/300"
+          },
+          "homeTeam": {
+            "href": "http://api.football-data.org/v1/teams/20"
+          },
+          "awayTeam": {
+            "href": "http://api.football-data.org/v1/teams/36"
+          }
+        },
+        "date": "2012-11-11T23:00:00Z",
+        "status": null,
+        "matchday": 13,
+        "homeTeamName": "FC St. Pauli",
+        "awayTeamName": "VfL Bochum",
+        "result": {
+          "goalsHomeTeam": 1,
+          "goalsAwayTeam": 1
+        },
+        "odds": null
+      }
+    ]
+  }
+}
